@@ -13,6 +13,9 @@ Ainsi, je peux ajouter des informations qui ne seront pas interprétées par CSS
 
 #### Des ressources en ligne
 
+Concernant les propriétés CSS que l'on peut appliquer aux typos :
+[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts)
+
 Concernant le "modèle de boite" (box model), voici quelques explications supplémentaires :  
 [https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model)
 
