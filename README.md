@@ -1,6 +1,7 @@
 # sorbonne-m2
 
 
+
 ## 28.10.2022
 
 Je mets toutes les contenus des cours ici : code, ressources intéressantes, etc. 
@@ -8,27 +9,28 @@ Vous trouverez le code écrit ensemble ce vendredi juste au dessus : cliquez sur
 
 ### Jeux !
 
-En plus de [https://flexboxfroggy.com/#fr](Flex Box Froggy), vous pouvez tester vos HTML et CSS avec : 
-- [https://flukeout.github.io/](CSS Diner)
-- [http://www.flexboxdefense.com/](Flex box defense)
-- [https://frontend30.com/css-selectors-cheatsheet/](Les sélecteurs CSS, très important..)
-- [https://css-animations.io/task/1](Animations CSS, plus compliqué...)
-- et toujours sur [https://www.freecodecamp.org/learn/2022/responsive-web-design/](FreeCodeCamp) (que je conseille très vivement)
-- [https://www.codingame.com/](Coding Game, pour les plus motivé.e.s)
-- [https://www.codewars.com/](Code Wars, idem)
+En plus de [Flex Box Froggy](https://flexboxfroggy.com/#fr), vous pouvez tester vos HTML et CSS avec : 
+- [CSS Diner](https://flukeout.github.io/)
+- [Flex box defense](http://www.flexboxdefense.com/)
+- [Les sélecteurs CSS, très important..](https://frontend30.com/css-selectors-cheatsheet/)
+- [Animations CSS, plus compliqué...](https://css-animations.io/task/1)
+- et toujours sur [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (que je conseille très vivement)
+- [Coding Game, pour les plus motivé.e.s](https://www.codingame.com/)
+- [Code Wars, idem](https://www.codewars.com/)
 
 ### Design System
 
-Nous avons vu [https://component.gallery/](cette gallerie de composant web), qui peuvent s'appliquer à un site web ou une application. 
+Nous avons vu [cette gallerie de composant web](https://component.gallery/), qui peuvent s'appliquer à un site web ou une application. 
 
 Ces composants nous apportent un 'vocabulaire', au même titre qu'une charte graphique. 
 
 Et c'est toujours intéressant d'aller voir du côté des tendances. Par exemmple : 
-- [https://en.99designs.fr/blog/trends/web-design-trends/] 
-- [https://elementor.com/blog/web-design-trends/]
+- [https://en.99designs.fr/blog/trends/web-design-trends/]()
+- [https://elementor.com/blog/web-design-trends/]()
 
 La chaine Youtube de Figma propose une introduction au Design Systeme sous Figma justement : 
-[https://www.youtube.com/watch?v=EK-pHkc5EL4]
+[https://www.youtube.com/watch?v=EK-pHkc5EL4]()
+
 
 
 ## 14.10.2022
