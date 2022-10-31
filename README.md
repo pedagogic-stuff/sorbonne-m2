@@ -1,6 +1,32 @@
 ## sorbonne-m2
 
-### 14.10.22
+
+### 28.10.2022
+
+Je mets toutes les contenus des cours ici : code, ressources intéressantes, etc. 
+Vous trouverez le code écrit ensemble ce vendredi juste au dessus : cliquez sur le document 'htmlcss_basics' pour voir les différents fichiers.
+
+#### Jeux !
+
+En plus de [https://flexboxfroggy.com/#fr](Flex Box Froggy), vous pouvez tester vos HTML et CSS avec : 
+- [https://flukeout.github.io/](CSS Diner)
+- [http://www.flexboxdefense.com/](Flex box defense)
+- [https://frontend30.com/css-selectors-cheatsheet/](Les sélecteurs CSS, très important..)
+- [https://css-animations.io/task/1](Animations CSS, plus compliqué...)
+- et toujours sur [https://www.freecodecamp.org/learn/2022/responsive-web-design/](FreeCodeCamp) (que je conseille très vivement)
+
+#### Design System
+
+Nous avons vu [https://component.gallery/](cette gallerie de composant web), qui peuvent s'appliquer à un site web ou une application. 
+
+Ces composants nous apportent un 'vocabulaire', au même titre qu'une charte graphique. 
+
+Et c'est toujours intéressant d'aller voir du côté des tendances. Par exemmple : 
+- [https://en.99designs.fr/blog/trends/web-design-trends/] 
+- [https://elementor.com/blog/web-design-trends/]
+- 
+
+### 14.10.2022
 
 #### Notre dernier TP
 
