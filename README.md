@@ -20,15 +20,18 @@ En plus de [Flex Box Froggy](https://flexboxfroggy.com/#fr), vous pouvez tester 
 
 ### Design System
 
-Nous avons vu [cette gallerie de composant web](https://component.gallery/), qui peuvent s'appliquer à un site web ou une application. 
+Nous avons vu [cette gallerie de composants web](https://component.gallery/), lesquels peuvent s'appliquer à un site web ou une application. 
 
-Ces composants nous apportent un 'vocabulaire', au même titre qu'une charte graphique. 
+Ces composants nous apportent un **vocabulaire**, au même titre qu'une **charte graphique**. 
 
-Et c'est toujours intéressant d'aller voir du côté des tendances. Par exemmple : 
+Et c'est toujours intéressant d'aller voir **du côté des tendances**. Par exemmple : 
 - [https://en.99designs.fr/blog/trends/web-design-trends/]()
 - [https://elementor.com/blog/web-design-trends/]()
 
-La chaine Youtube de Figma propose une introduction au Design Systeme sous Figma justement : 
+Et ici des **exemples** de Design System : 
+[[https://www.editorx.com/shaping-design/article/design-system-examples]()
+
+Enfin, la chaine Youtube de Figma propose une **introduction au Design System sous Figma** justement : 
 [https://www.youtube.com/watch?v=EK-pHkc5EL4]()
 
 
