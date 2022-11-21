@@ -1,6 +1,18 @@
 # sorbonne-m2
 
 
+## 18.10.2022
+
+### Design Principes
+
+- 20 principes de web Design => https://www.canva.com/learn/20-web-design-principles-follow/ 
+- "Les dix principes du « bon design » selon Dieter Rams" => https://fr.wikipedia.org/wiki/Dieter_Rams
+
+### Pratiquer JavScript
+
+Afin de prendre en main JavaScript, vous pouvez aller du coté de FreeCodeCamp (encore) : 
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
 
 ## 28.10.2022
 
