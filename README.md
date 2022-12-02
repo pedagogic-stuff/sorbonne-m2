@@ -5,8 +5,24 @@
 
 ### Pratiquer JavaScript
 
-- Supports JavaScript => https://drive.google.com/drive/folders/1aJLHFlAww1U-8kpdLmCgB8a0gHoHdxOr?usp=share_link
-- Pratiquer JavScript => https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+* Supports JavaScript => https://drive.google.com/drive/folders/1aJLHFlAww1U-8kpdLmCgB8a0gHoHdxOr?usp=share_link
+* Pratiquer JavScript => https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+
+### Projet HTML CSS à rendre
+
+L'idée du projet est de traduire en HTML (+ CSS) votre présentation de projet. 
+Du slide à la page web donc.
+
+Pour chaque projet / équipe : 
+
+* 3 à 5 pages HTML, dont une page d'accueil index.html
+* Des styles CSS qui respectent votre "charte graphique" : couleurs, typos, ambiance générale
+* Du contenu en tout genre : titres, textes plus long, images, pictos (éventuellement)
+* Faites simple pour commencer vos pages : un peu de contenu, des styles légers.
+* Puis vous augmenter très doucement la complexité des styles et des structures de vos contenus...
+* Tip #1 - pour créer des colonnes : penser à display: flex
+
 
 
 

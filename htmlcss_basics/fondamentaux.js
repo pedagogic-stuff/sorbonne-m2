@@ -124,17 +124,27 @@ console.log( premierBonon[0] )
 
 /*
  * BOUCLES
+ *
+ * Les boucles permettent d'effectuer des itérations, c'est à dire de répéter une même opération plusieurs fois.
+ * Ces boucles seront souvent utiles pour explorer une collection, qu'elle soit un tableau ou un objet.
  */
 
-
-for (let index = 0; index < typesBonbon.length; index++) {
-    console.log( typesBonbon[index] );
+// Une boucle un peu bête qui compte de 0 jusqu'à 10 inclus
+for (let index = 0; index <= 10; index++ ) {
+    console.log(index);
 }
 
+// Une boucle un peu bête qui compte de 0 jusqu'à 10 non inclus,  2 par 2
 for (let index = 0; index < 10; index += 2 ) {
     console.log(index);
 }
 
+// Une boucle qui "explore" un tableau et qui affiche sont contenu, ligne par ligne
+for (let index = 0; index < typesBonbon.length; index++) {
+    console.log( typesBonbon[index] );
+}
+
+// Une boucle différente qui fait exactement la même chose...
 for (const el of typesBonbon) {
     console.log(el);
 }
