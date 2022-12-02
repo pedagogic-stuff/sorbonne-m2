@@ -74,7 +74,40 @@ p, ul {
     margin: auto;
 }
 
+#btn {
+    border: none;
+    background: none;
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+}
 
+.modal {
+    display: flex;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.8);
+    justify-content: center;
+    align-items: center;
+}
+.modal_inner {
+    position: relative;
+    background: white;
+    width: 500px;
+    padding: 40px;
+}
+.hidden {
+    display: none;
+}
+.closeBtn {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
 /* Header */
 
 header {

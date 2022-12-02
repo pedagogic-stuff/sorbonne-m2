@@ -17,8 +17,8 @@
 
       <nav>
         <ul class="main_menu">
-          <li><a href="#">Accueil</a></li>
-          <li><a href="#">A propos</a></li>
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="apropos.html">A propos</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
       </nav>
@@ -30,12 +30,15 @@
 
   <main class="wrapper">
 
-    <h1>Design System 101</h1>
+    <h1>Design <span>System 101</span></h1>
 
     <p class="introduction">
       Mon premier design system se compose ici essentiellement d'une charte graphique simple : un nuancier, une typographie et un système de 2 colonnes. 
     </p>
 
+    <div>
+      <button id="btn">Commencez le test</button>
+    </div>
 
     <div  class="composant_column">
 
@@ -88,7 +91,7 @@
     </ul>
       
       
-     
+    <a href="page2.html">Commencez l'aventure</a>
       
       
   </main>
@@ -101,7 +104,17 @@
   </footer>
 
 
-  <script src="script.js"></script>
+  <div id="modal" class="modal hidden">
+    <div class="modal_inner">
+      <button id="close" class="closeBtn">fermer</button>
+      <h2>a propos de notre application</h2>
+      <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit neque iusto repellendus ex animi aperiam cum reiciendis. Pariatur dignissimos officia praesentium porro provident harum, dolores, labore obcaecati ipsam, doloremque et.</div>
+    </div>
+  </div>
+
+
+  <script src="manipulation.js"></script>
+  <script src="fondamentaux.js"></script>
 
   
 </body></html>

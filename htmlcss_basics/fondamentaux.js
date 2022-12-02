@@ -13,10 +13,10 @@
  *      3. Assignations (peuvent être multiples donc...)
  */
 
-const prénom = "Thomas";
+const prenom = "Thomas";
 
-let boisson = "café"; // variable qui peut réassigner au cours du script
-let gobelet = "porcelaine";
+let boisson = 'café'; // variable qui peut réassigner au cours du script
+let gobelet = "porcelaine"; // Variable de type chaine de caractère
 
 let soif = true; // variable de type booléen : true / false
 let niveauDeSoif = 3; // variable de type "entier" / INT
@@ -34,6 +34,7 @@ let niveauDeSoif = 3; // variable de type "entier" / INT
 // Je déclare une fonction qui dit bonjour.
 function displayBonjour() {
     console.log("Hello !");
+    console.log("aujourd'hui");
 }
 
 
@@ -121,6 +122,22 @@ console.log( premierBonon )
 console.log( premierBonon[0] )
 
 
+/*
+ * BOUCLES
+ */
+
+
+for (let index = 0; index < typesBonbon.length; index++) {
+    console.log( typesBonbon[index] );
+}
+
+for (let index = 0; index < 10; index += 2 ) {
+    console.log(index);
+}
+
+for (const el of typesBonbon) {
+    console.log(el);
+}
 
 
 

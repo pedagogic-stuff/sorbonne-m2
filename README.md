@@ -1,6 +1,15 @@
 # sorbonne-m2
 
 
+## 2.12.22
+
+### Pratiquer JavaScript
+
+- Supports JavaScript => https://drive.google.com/drive/folders/1aJLHFlAww1U-8kpdLmCgB8a0gHoHdxOr?usp=share_link
+- Pratiquer JavScript => https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+
+
 ## 18.10.2022
 
 ### Design Principes
@@ -12,6 +21,8 @@
 
 Afin de prendre en main JavaScript, vous pouvez aller du coté de FreeCodeCamp (encore) : 
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+
 
 
 ## 28.10.2022
